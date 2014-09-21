@@ -1,0 +1,7 @@
+This has been presented as an example of a principle of human reading comprehension.
+If you keep the first letter and the last letter of a word in their correct positions, then
+scramble the letters in between, the word is still quite readable in the context of an
+accompanying paragraph. However, it seems that this is a bit of a myth and not truly
+based on solid research. In short, for longer words the task is much more difficult.
+Nonetheless, we are going to imitate the process on some English text.
+Here's someone's extra-punctuated sentence, oh-yes.
