@@ -1,0 +1,12 @@
+This paragraph was published as an example of a principle of human reading
+comprehension. If you keep the first letter and the last letter of a word in their correct
+positions and scramble the letters in between, the word is still quite readable in the
+context of a surrounding paragraph. However, it seems that this is a bit of a myth and
+not truly based on solid research. It turns out that for longer words, the task is much
+more difficult. Nonetheless, we are going to imitate the process on some English text.
+Handling punctuation is tricky. You need to deal with punctuation that comes at
+the end of a word: comma, period, question mark, exclamation, etc. For example, in
+the previous sample, the word university ends with a comma, so you need to ensure
+that you do not treat the comma as the “last letter of the word” when you scramble all
+but the first and last letters. This... is my, "extra-punctuated" sentence!
+
