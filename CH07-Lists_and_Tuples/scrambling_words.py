@@ -75,7 +75,7 @@ def scrambleWord(word):
 def getScrambledWords(word_list):
     scrambled_string = ""
     for word in word_list:
-        scrambled_string += scrambleWord(word) + " "
+        scrambled_string += "".join(scrambleWord(word) + " ")
     scrambled_string = scrambled_string.strip()
     return scrambled_string
 
